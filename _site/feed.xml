@@ -4,11 +4,24 @@
     <title>Jun Zhou's Portfolio</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://localhost:4000/portfolio/</link>
-    <atom:link href="http://localhost:4000/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Oct 2017 13:12:32 -0700</pubDate>
-    <lastBuildDate>Mon, 23 Oct 2017 13:12:32 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 23 Oct 2017 17:15:55 -0700</pubDate>
+    <lastBuildDate>Mon, 23 Oct 2017 17:15:55 -0700</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>RISC-V CPU</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/CPU/cpu.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For CS61C: Great Ideas of Computer Architecture, we designed a 32-bit two-cycle (pipeline) processor based on RISC-V.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 10 Oct 2015 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2015/10/10/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/10/welcome-to-jekyll/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -17,8 +30,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Fri, 09 Oct 2015 08:39:40 -0700</pubDate>
-        <link>http://localhost:4000/portfolio/2015/10/09/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/portfolio/2015/10/09/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2015/10/09/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/09/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -30,8 +43,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 08:39:40 -0700</pubDate>
-        <link>http://localhost:4000/portfolio/2015/10/08/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/portfolio/2015/10/08/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2015/10/08/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/08/welcome-to-jekyll/</guid>
         
         
       </item>
@@ -43,21 +56,8 @@
 &lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
-        <link>http://localhost:4000/portfolio/2015/10/07/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/portfolio/2015/10/07/welcome-to-jekyll/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>CPU Design</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 06 Oct 2015 08:39:40 -0700</pubDate>
-        <link>http://localhost:4000/portfolio/2015/10/06/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/portfolio/2015/10/06/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2015/10/07/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/10/07/welcome-to-jekyll/</guid>
         
         
       </item>

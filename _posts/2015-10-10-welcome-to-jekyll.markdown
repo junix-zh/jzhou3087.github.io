@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "RISC-V CPU"
+preview: http://hexus.net/media/uploaded/2015/12/59f62a82-7c35-4a40-9f93-94b3fb118ca2.jpg
+---
+
+![Picture 1]({{ "/assets/CPU/cpu.png" | absolute_url }})	
+
+For CS61C: Great Ideas of Computer Architecture, we designed a 32-bit two-cycle (pipeline) processor based on RISC-V.
