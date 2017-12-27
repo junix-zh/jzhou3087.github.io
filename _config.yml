@@ -11,4 +11,4 @@ github_username:  jzhou3087
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none
