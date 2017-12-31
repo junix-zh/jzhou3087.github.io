@@ -7,4 +7,13 @@ preview: "/assets/61B/bearMaps.gif"
 
 ![Maps Animation]({{"/assets/61B/bearMaps.gif" | absolute_url }})
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+BearMaps is a web mapping application built using Java Spark as the server framework. 
+
+Hosted on a course server -- did not host on my own Heroku server -- that hosts endpoints which take in parameters, the server responds with an output in JSON.
+![Application Structure]({{"/assets/61B/appstruct.png" | absolute_url }})
+
+There are four GET endpoints: /raster, /route, 
+
+
+The following implementations were used to solve the respective design problems: a quadtree data structure for map rastering with O(k log k + log n) for a map with k tiles intersecting a query box and n tiles total, A* algorithm for map routing, and a trie data structure for autocompletion on a query string with O(k) for a query where k words of maximum length share a prefix s. 
+
