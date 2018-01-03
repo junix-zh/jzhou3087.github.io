@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "S16TEEN"
+title:  "S16TEEN Integrated Circuits Car"
 date:   2015-10-08 15:39:40
 preview: https://unsplash.it/300/300
 ---

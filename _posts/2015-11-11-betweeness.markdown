@@ -1,15 +1,9 @@
 ---
 layout: post
-title:  "TextEditor"
+title:  "Betweenness NP-Complete Solver"
 date:   2015-10-07 15:39:40
 preview: "/assets/61B/textEditor.gif"
 ---
 
-![Text Editor Animation]({{ "/assets/61B/textEditor.gif" | absolute_url }})
+![Project Write-up]({{ "/assets/cs170_writeup.pdf" | absolute_url }})
 
-Text Editor project for CS 61B: Data Structures.
-
-Employed a double-ended linked list data structure (i.e with previous and next pointers) with sentinel nodes as the beginning and end nodes.
-
-Then, through extensive debugging around the design specifications, the following animation showcases the results.
-            
