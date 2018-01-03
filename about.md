@@ -4,6 +4,6 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Hello, world.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+I am a rising third year at the University of California, Berkeley studying Electrical Engineering and Computer Science, and Rhetoric. Sometimes a teacher, but always a student. Looking for challenging problems that have strong implications for a thriving future: that learning the technical aspects of a problem will educate and enlighten a global view that is less dystopian as depicted by mass media and more revolutionary like virtual reality technologies. Hobbies include music production, critical theory, and debate. I hope to design for the future, and engineer for the present. 
