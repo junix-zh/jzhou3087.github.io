@@ -2,9 +2,7 @@
 title: Jun Zhou's Portfolio
 email: jzhou3087@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a rising third year at the University of California, Berkeley studying Electrical Engineering and Computer Science, and Rhetoric. Sometimes a teacher, but always a student. Looking for challenging problems that have strong implications for a thriving future: that learning the technical aspects of a problem will educate and enlighten a global view that is less dystopian as depicted by mass media and more revolutionary like virtual reality technologies. Hobbies include music production, critical theory, and debate. I hope to design for the future, and engineer for the present.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jzhou3087.github.io" # the base hostname & protocol for your site
 github_username:  jzhou3087
