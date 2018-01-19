@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jun Zhou's Portfolio</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Computer Science. Engineer. Data Science. Data Structures and Algorithms. Internet Architecture. Music Enthusiast. Writer. Rhetoric.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Dec 2017 02:17:21 -0800</pubDate>
-    <lastBuildDate>Fri, 29 Dec 2017 02:17:21 -0800</lastBuildDate>
+    <pubDate>Fri, 19 Jan 2018 15:09:38 -0800</pubDate>
+    <lastBuildDate>Fri, 19 Jan 2018 15:09:38 -0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>RISC-V CPU</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/CPU/cpu.png&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;For CS61C: Great Ideas of Computer Architecture, we designed a 32-bit two-cycle (pipeline) processor based on RISC-V.&lt;/p&gt;
+&lt;p&gt;For CS61C: Great Ideas of Computer Architecture, we designed a 32-bit two-cycle pipelined processor based on RISC-V.&lt;/p&gt;
+
 </description>
         <pubDate>Sat, 10 Oct 2015 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/CPU.html</link>
@@ -27,7 +28,15 @@
         <title>BearMaps</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/61B/bearMaps.gif&quot; alt=&quot;Maps Animation&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;BearMaps, drawn from Google Maps, is a routing application built as a web API using Java Spark as the server framework.&lt;/p&gt;
+&lt;p&gt;BearMaps is a web mapping application built using Java Spark as the server framework.&lt;/p&gt;
+
+&lt;p&gt;Hosted on a course server – did not host on my own Heroku server – that hosts endpoints which take in parameters, the server responds with an output in JSON.
+&lt;img src=&quot;http://localhost:4000/assets/61B/appstruct.png&quot; alt=&quot;Application Structure&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are four GET endpoints: /raster, /route,&lt;/p&gt;
+
+&lt;p&gt;The following implementations were used to solve the respective design problems: a quadtree data structure for map rastering with O(k log k + log n) for a map with k tiles intersecting a query box and n tiles total, A* algorithm for map routing, and a trie data structure for autocompletion on a query string with O(k) for a query where k words of maximum length share a prefix s.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 09 Oct 2015 08:39:40 -0700</pubDate>
         <link>http://localhost:4000/map.html</link>
@@ -37,10 +46,9 @@
       </item>
     
       <item>
-        <title>S16TEEN</title>
+        <title>Integrated Circuits Car</title>
         <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 08:39:40 -0700</pubDate>
         <link>http://localhost:4000/SIXTEEN.html</link>
@@ -50,10 +58,60 @@
       </item>
     
       <item>
+        <title>Betweenness NP-Complete Solver</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup1.png&quot; alt=&quot;Project Write-up&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup2.png&quot; alt=&quot;Project Write-up&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup3.png&quot; alt=&quot;Project Write-up&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup4.png&quot; alt=&quot;Project Write-up&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup5.png&quot; alt=&quot;Project Write-up&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/cs170_writeup6.png&quot; alt=&quot;Project Write-up&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
+        <link>http://localhost:4000/betweeness.html</link>
+        <guid isPermaLink="true">http://localhost:4000/betweeness.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>WAM Optimizer</title>
+        <description>
+</description>
+        <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
+        <link>http://localhost:4000/wamopt.html</link>
+        <guid isPermaLink="true">http://localhost:4000/wamopt.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Distance Vector Routing</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/61B/textEditor.gif&quot; alt=&quot;Text Editor Animation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Text Editor project for CS 61B: Data Structures.&lt;/p&gt;
+
+&lt;p&gt;Employed a double-ended linked list data structure (i.e with previous and next pointers) with sentinel nodes as the beginning and end nodes.&lt;/p&gt;
+
+&lt;p&gt;Then, through extensive debugging around the design specifications, the following animation showcases the results.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
+        <link>http://localhost:4000/dvrouter.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dvrouter.html</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>TextEditor</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/61B/textEditor.gif&quot; alt=&quot;Text Editor Animation&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Text Editor project for CS 61B: Data Structures.&lt;/p&gt;
+
+&lt;p&gt;Employed a double-ended linked list data structure (i.e with previous and next pointers) with sentinel nodes as the beginning and end nodes.&lt;/p&gt;
+
+&lt;p&gt;Then, through extensive debugging around the design specifications, the following animation showcases the results.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
         <link>http://localhost:4000/texteditor.html</link>

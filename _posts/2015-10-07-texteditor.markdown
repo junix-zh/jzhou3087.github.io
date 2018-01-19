@@ -2,7 +2,7 @@
 layout: post
 title:  "TextEditor"
 date:   2015-10-07 15:39:40
-preview: "/assets/61B/textEditor.gif"
+preview: "/assets/thumbnails_java.jpg"
 ---
 
 ![Text Editor Animation]({{ "/assets/61B/textEditor.gif" | absolute_url }})

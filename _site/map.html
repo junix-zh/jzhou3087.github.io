@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>BearMaps</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <meta name="description" content="Computer Science. Engineer. Data Science. Data Structures and Algorithms. Internet Architecture. Music Enthusiast. Writer. Rhetoric.
 ">
     <link rel="canonical" href="http://localhost:4000/map.html">
     <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
@@ -22,7 +22,7 @@
     <main class="wrapper">
       
       <header class="site-header">
-  <a class="site-title" href="/"><img src="assets/banner.png"></a>
+  <a class="site-title" href="/"><img src="assets/banner.jpg"></a>
     
   <nav class="navbar">
     <ul>
@@ -52,7 +52,15 @@
   <article class="post-content">
     <p><img src="http://localhost:4000/assets/61B/bearMaps.gif" alt="Maps Animation" /></p>
 
-<p>BearMaps, drawn from Google Maps, is a routing application built as a web API using Java Spark as the server framework.</p>
+<p>BearMaps is a web mapping application built using Java Spark as the server framework.</p>
+
+<p>Hosted on a course server – did not host on my own Heroku server – that hosts endpoints which take in parameters, the server responds with an output in JSON.
+<img src="http://localhost:4000/assets/61B/appstruct.png" alt="Application Structure" /></p>
+
+<p>There are four GET endpoints: /raster, /route,</p>
+
+<p>The following implementations were used to solve the respective design problems: a quadtree data structure for map rastering with O(k log k + log n) for a map with k tiles intersecting a query box and n tiles total, A* algorithm for map routing, and a trie data structure for autocompletion on a query string with O(k) for a query where k words of maximum length share a prefix s.</p>
+
 
   </article>
 
@@ -91,7 +99,7 @@
     </div>
 
     <div class="column">
-      <p>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+      <p>Computer Science. Engineer. Data Science. Data Structures and Algorithms. Internet Architecture. Music Enthusiast. Writer. Rhetoric.
 </p>
     </div>
   </div>
