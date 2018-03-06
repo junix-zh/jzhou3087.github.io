@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jan 2018 15:10:36 -0800</pubDate>
-    <lastBuildDate>Fri, 19 Jan 2018 15:10:36 -0800</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 16:50:27 -0800</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 16:50:27 -0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -46,9 +46,38 @@
       </item>
     
       <item>
-        <title>Integrated Circuits Car</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://unsplash.it/800/600&quot; alt=&quot;Picture 1&quot; /&gt;&lt;/p&gt;
+        <title>Computer Security Hacks</title>
+        <description>&lt;p&gt;In this project, we were required to analyze flawed C code and find security hacks to inject malicious shellcode and execute it with either buffer overflows, string conversion errors, off-by-one manipulation, and ret2esp. &lt;a href=&quot;http://localhost:4000/downloads/cs161project1.pdf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
 
+</description>
+        <pubDate>Thu, 08 Oct 2015 08:39:40 -0700</pubDate>
+        <link>http://localhost:4000/cs161project1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/cs161project1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>iOS Music Streaming Application</title>
+        <description>&lt;p&gt;Description coming soon!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Oct 2015 08:39:40 -0700</pubDate>
+        <link>http://localhost:4000/iOSMusicStreamingApp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/iOSMusicStreamingApp.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Integrated Circuits Car</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/sixt33n.gif&quot; alt=&quot;SIXT33N&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Architected a control network feedback system using integrated circuits.&lt;/p&gt;
+
+&lt;p&gt;Functional motion activated by vocal commands that are processed by a stereo mic integrated with a TI MSP430 microcontroller. Through linear regression/least squares, we found appropriate eigenvalues with Singular Value Decomposition and Principal Component Analysis to assign certain motor control parameters that support axis movement. Furthermore, using K-Means, we clustered four different voice commands to support voice activated turns.&lt;/p&gt;
+
+&lt;p&gt;Used C and Python throughout the project.&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Oct 2015 08:39:40 -0700</pubDate>
         <link>http://localhost:4000/SIXTEEN.html</link>
@@ -86,13 +115,7 @@
     
       <item>
         <title>Distance Vector Routing</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/61B/textEditor.gif&quot; alt=&quot;Text Editor Animation&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Text Editor project for CS 61B: Data Structures.&lt;/p&gt;
-
-&lt;p&gt;Employed a double-ended linked list data structure (i.e with previous and next pointers) with sentinel nodes as the beginning and end nodes.&lt;/p&gt;
-
-&lt;p&gt;Then, through extensive debugging around the design specifications, the following animation showcases the results.&lt;/p&gt;
+        <description>&lt;p&gt;Description coming soon!&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 07 Oct 2015 08:39:40 -0700</pubDate>
